@@ -12,8 +12,8 @@
 - 🌱 Python爱好者--爬虫 爆破 
 - 🌱 虚拟机爱好者--Win/Unix系统 
 - 🌱 服务器搭建者--各种数据库 web等等服务器 
-- 🌱 读书爱好者--曾国藩语录
+- 🌱 读书爱好者--曾国藩语录 
 
-
-- 💬 PanindexAddr：https://pan-zhilong.herokuapp.com
-- 💬 技术博客地址：https://github.com/aabbcc582/aabbcc582
+-
+- 💬 PanindexAddr：https://pan-zhilong.herokuapp.com 
+- 💬 技术博客地址：https://github.com/aabbcc582/aabbcc582 

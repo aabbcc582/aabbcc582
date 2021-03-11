@@ -2,7 +2,7 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi programmer 👋
-<img align="left" alt="GIF" src="https://gitee.com/zhilongjingxin/PicGo/raw/master/images/github01.jpg" width="200" height="280" />
+<img align="left" alt="GIF" src="https://gitee.com/zhilongjingxin/PicGo/raw/master/images/github02.png" width="200" height="280" />
  
 ### I'm Zhilong
 

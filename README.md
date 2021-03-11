@@ -2,7 +2,7 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi programmer 👋
-<img align="right" alt="GIF" src="https://github.com/lexsaints/lexsaints/blob/master/snail_linux.jpg" />
+<img align="lift" alt="GIF" src="https://github.com/lexsaints/lexsaints/blob/master/snail_linux.jpg" />
  
 ### I'm Zhilong
 - 🌱 Linux开发者 所有发行版本--十年经验 
@@ -14,4 +14,3 @@
 - 
 - 💬 PanindexAddr：https://pan-zhilong.herokuapp.com
 - 💬 技术博客地址：https://github.com/aabbcc582/aabbcc582
-- 💬 右边是 我的个人微信公众号 欢迎关注。。。

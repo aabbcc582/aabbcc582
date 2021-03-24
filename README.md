@@ -18,4 +18,4 @@
  
 - 💬 PanindexAddr：https://pan-zhilong.herokuapp.com 
 - 💬 技术博客地址：https://github.com/aabbcc582/aabbcc582 
-- 💬 Onedrive cloud: <a href="https://service-615zk1us-1300671906.gz.apigw.tencentcs.com/release/SCFOnedriveIndex">直达链接</a>
+- 💬 Onedrive cloud: <a href="https://service-615zk1us-1300671906.gz.apigw.tencentcs.com/release/SCFOnedrive">直达链接</a>
